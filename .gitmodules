@@ -1,0 +1,6 @@
+[submodule "ADXL345_RP2040"]
+	path = ADXL345_RP2040
+	url = https://github.com/profi248/ADXL345_RP2040.git
+[submodule "littlefs"]
+	path = littlefs
+	url = https://github.com/littlefs-project/littlefs.git
